@@ -1,0 +1,11 @@
+D:\Programming\C#\SchereSteinPapier\SchereSteinPapier\bin\Debug\netcoreapp3.1\SchereSteinPapier.exe
+D:\Programming\C#\SchereSteinPapier\SchereSteinPapier\bin\Debug\netcoreapp3.1\SchereSteinPapier.deps.json
+D:\Programming\C#\SchereSteinPapier\SchereSteinPapier\bin\Debug\netcoreapp3.1\SchereSteinPapier.runtimeconfig.json
+D:\Programming\C#\SchereSteinPapier\SchereSteinPapier\bin\Debug\netcoreapp3.1\SchereSteinPapier.runtimeconfig.dev.json
+D:\Programming\C#\SchereSteinPapier\SchereSteinPapier\bin\Debug\netcoreapp3.1\SchereSteinPapier.dll
+D:\Programming\C#\SchereSteinPapier\SchereSteinPapier\bin\Debug\netcoreapp3.1\SchereSteinPapier.pdb
+D:\Programming\C#\SchereSteinPapier\SchereSteinPapier\obj\Debug\netcoreapp3.1\SchereSteinPapier.csprojAssemblyReference.cache
+D:\Programming\C#\SchereSteinPapier\SchereSteinPapier\obj\Debug\netcoreapp3.1\SchereSteinPapier.AssemblyInfoInputs.cache
+D:\Programming\C#\SchereSteinPapier\SchereSteinPapier\obj\Debug\netcoreapp3.1\SchereSteinPapier.AssemblyInfo.cs
+D:\Programming\C#\SchereSteinPapier\SchereSteinPapier\obj\Debug\netcoreapp3.1\SchereSteinPapier.dll
+D:\Programming\C#\SchereSteinPapier\SchereSteinPapier\obj\Debug\netcoreapp3.1\SchereSteinPapier.pdb
